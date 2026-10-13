@@ -8,3 +8,4 @@ Statut : `idée` · `cadrée` · `en cours` · `livrée` · `abandonnée`
 |-----|-----------------|--------|----------------|--------|
 | notebook | Gestionnaire de notebooks Jupyter | idée |  | [apps/notebook.md](apps/notebook.md) |
 | kvmplus | Gestionnaire de conteneurs Docker et de VM KVM | idée |  | [apps/kvmplus.md](apps/kvmplus.md) |
+| GetGetWeb | Interface pour récupérer et parser des ressources web (YouTube, arXiv, blogs, ...) et les analyser avec des LLM | idée |  | [apps/getgetweb.md](apps/getgetweb.md) |
