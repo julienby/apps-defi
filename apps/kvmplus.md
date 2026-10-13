@@ -1,6 +1,6 @@
 # kvmplus
 
-Gestionnaire de VM Docker.
+Gestionnaire de conteneurs Docker et de VM KVM.
 
 - Statut : idée
 - Priorité : 
