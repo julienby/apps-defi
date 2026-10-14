@@ -4,7 +4,7 @@
 
 **Mes idées d'apps, construites en public.**
 
-![Apps](https://img.shields.io/badge/apps-3-orange)
+![Apps](https://img.shields.io/badge/apps-4-orange)
 ![Statut](https://img.shields.io/badge/statut-build%20in%20public-brightgreen)
 ![Licence](https://img.shields.io/badge/idées-à%20voler-blue)
 
@@ -25,6 +25,7 @@ Ce repo est ma base d'apps à réaliser. Chaque idée a une ligne ci-dessous et 
 | 📓 **notebook** | Gestionnaire de notebooks Jupyter | 💡 idée | – | [voir](apps/notebook.md) |
 | 🖥️ **kvmplus** | Gestionnaire de conteneurs Docker et de VM KVM | 💡 idée | – | [voir](apps/kvmplus.md) |
 | 🕸️ **GetGetWeb** | Récupère et parse des ressources web (YouTube, arXiv, blogs, ...) puis les analyse avec des LLM | 💡 idée | – | [voir](apps/getgetweb.md) |
+| 🤖 **mechamd** | Markdown + frontmatter + snippets pour générer des pages web data first, AI first, mais soignées côté design | 💡 idée | – | [voir](apps/mechamd.md) |
 
 ## 🚦 Les statuts
 
